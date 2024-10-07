@@ -6,7 +6,12 @@
   "scripts": {
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "keywords": [
+    "javascript",
+    "backend",
+    "vicky"
+  ],
+  "author": "Vicky",
   "license": "ISC",
   "description": "",
   "devDependencies": {
